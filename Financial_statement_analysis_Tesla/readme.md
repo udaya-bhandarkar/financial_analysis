@@ -1,7 +1,7 @@
 ## 📊 Tesla’s Financial Turnaround: 2020 Profitability Analysis
 
 **Why 2020?**  
-Tesla’s financials from 2018 to 2020 tell a compelling story — 2020 marked the year Tesla finally turned consistently profitable on a GAAP basis. This analysis digs into what changed in 2020 and how Tesla managed to achieve this major milestone.
+Tesla’s financials from 2018 to 2020 tell a compelling story — 2020 marked the year Tesla finally turned consistently profitable on a GAAP basis. This analysis digs into what changed in 2020 and how Tesla managed to achieve this major milestone. All the analysis comes from market research and the data i have prepared by referring Tesla's 2020 10K form and prepared an excel file containing its Income statement and Balance sheet and calcuated the major financial ratios to come to an understanding for the reason of its profitablitly
 
 ---
 
