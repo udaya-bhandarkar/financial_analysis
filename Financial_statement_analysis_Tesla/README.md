@@ -54,6 +54,7 @@ This project includes:
 |----------------------------|--------------------------------------------------|
 | `README.md`              | you’re reading it 🙂        |
 | `Tesla_Financials.xlsx`    | Income statement, balance sheet, ratio analysis |
+| `Tesla_2020.pdf`           | Tesla’s 2020 10-K form            |
 | `analysis.md`              | Detailed breakdown of the findings         |
 
 
